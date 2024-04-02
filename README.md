@@ -41,4 +41,4 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo"> Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui]().
+Você pode acessar ao resultado final do projeto [clicando aqui]( https://lucasbizachi.github.io/desafio-css-clone-hbomax/).
