@@ -10,6 +10,7 @@
 <p align="center">
   O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 </p>
+
 <h2 id="features"> Features</h2>
 
 - Menu de navegação
