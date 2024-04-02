@@ -1,4 +1,4 @@
-
+![cover](https://github.com/lucasbizachi/desafio-css-clone-hbomax/assets/101759223/2d6ecffc-322c-4ace-90b7-f5b5f216ec49)
 
 
 <h1 align="center">Site HBO Max</h1>
